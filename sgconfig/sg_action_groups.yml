@@ -13,6 +13,7 @@ DATA_ACCESS:
   - "indices:data/*"
 WRITE:
   - "indices:data/write*"
+  - "indices:data/write/bulk*"
 READ:
   - "indices:data/read*"
 DELETE:
